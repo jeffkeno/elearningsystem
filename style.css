@@ -1,0 +1,16 @@
+.student-body { 
+	background: url("tabo/notep.jpg") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	-webkit-background-size: cover !important; 
+	-moz-background-size: cover !important; 
+	-o-background-size: cover !important; 
+	background-size: cover !important; 
+
+}
+.admin-body { 
+	background: url("tabo/textures-wallpapers-my-brushed-metal-texture-by-jnuw-on-deviantart1.jpg") repeat scroll 0 0 rgba(0, 0, 0, 0);
+	-webkit-background-size: cover !important; 
+	-moz-background-size: cover !important; 
+	-o-background-size: cover !important; 
+	background-size: cover !important; 
+
+}
